@@ -1,6 +1,6 @@
 <h2 align="center"> Hi. I'm Ivan.👋 </h2>
 
-<h6 align="center"> 🧪 I am a Junior Data Developer at Fitz Scientific.🌱</h6>
+<h6 align="center"> 🚂 I am a Data Scientist at JNCTION.🌱</h6>
 <h6 align="center"> 📚 I have graduated from Dublin City University with a 1:1 in Data Science (BSc).🌱</h6>
 <h6 align="center"> 📭 You can contact me using the links below 👇 </h6>
 
